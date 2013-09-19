@@ -1,3 +1,90 @@
+
 .cursor {}
 
+/**
+ * general
+ */
+
+.cursor-auto { cursor: auto !important; }
+
+.cursor-default { cursor: default !important; }
+
+.cursor-none { cursor: none !important; }
+
+/**
+ * links and status
+ */
+
+.cursor-menu { cursor: context-menu !important; }
+
+.cursor-help { cursor: help !important; }
+
 .cursor-pointer { cursor: pointer !important; }
+
+.cursor-progress { cursor: progress !important; }
+
+.cursor-wait { cursor: wait !important; }
+
+/**
+ * selection
+ */
+ 
+.cursor-cell { cursor: cell !important; }
+
+.cursor-crosshair { cursor: crosshair !important; }
+
+.cursor-text, .cursor-text-h { cursor: text !important; }
+
+.cursor-text-v { cursor: vertical-text !important; }
+
+/**
+ * drag-and-drop
+ */
+
+.cursor-alias { cursor: alias !important; }
+
+.cursor-copy { cursor: copy !important; }
+
+.cursor-move { cursor: text !important; }
+
+.cursor-stop { cursor: stop !important; }
+
+/**
+ * resize
+ */
+
+.cursor-resize-n { cursor: n-resize !important; }
+
+.cursor-resize-e { cursor: e-resize !important; }
+
+.cursor-resize-s { cursor: s-resize !important; }
+
+.cursor-resize-w { cursor: w-resize !important; }
+
+.cursor-resize-ne { cursor: ne-resize !important; }
+
+.cursor-resize-se { cursor: se-resize !important; }
+
+.cursor-resize-sw { cursor: sw-resize !important; }
+
+.cursor-resize-nw { cursor: nw-resize !important; }
+
+.cursor-resize-ew { cursor: ew-resize !important; }
+
+.cursor-resize-ns { cursor: ns-resize !important; }
+
+.cursor-resize-ne { cursor: ne-resize !important; }
+
+.cursor-resize-nesw { cursor: nesw-resize !important; }
+
+.cursor-resize-nwse { cursor: nwse-resize !important; }
+
+
+/**
+ * zoom
+ */
+
+.cursor-zoom-in { cursor: zoom-in !important; }
+
+.cursor-zoom-out { cursor: zoom-out !important; }
+
